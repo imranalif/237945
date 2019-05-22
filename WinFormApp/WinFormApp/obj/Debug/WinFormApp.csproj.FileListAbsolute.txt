@@ -1,0 +1,9 @@
+E:\BITM\project\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe.config
+E:\BITM\project\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe
+E:\BITM\project\WinFormApp\WinFormApp\bin\Debug\WinFormApp.pdb
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.CalculatorForm.resources
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.Cache
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.exe
+E:\BITM\project\WinFormApp\WinFormApp\obj\Debug\WinFormApp.pdb
